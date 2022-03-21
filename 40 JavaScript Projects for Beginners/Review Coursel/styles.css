@@ -1,0 +1,37 @@
+
+body {
+    text-align: center;
+}
+.card {
+    background-color: rgb(236, 201, 172);
+    max-width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid rgb(65, 65, 230);
+    margin-bottom: 2rem;
+}
+.left, .right{
+    color: rgb(85, 85, 208);
+    font-size: 25px;
+    font-weight: 900;
+    cursor: pointer;
+}
+.left:hover , .right:hover {
+    opacity: 0.5;
+}
+.btn {
+    margin: 1rem;
+    padding: 5px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+.btn:hover {
+    box-shadow: 0px 1px 5px 0px;
+}
