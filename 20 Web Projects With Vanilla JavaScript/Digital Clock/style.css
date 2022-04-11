@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@600&family=Barlow:wght@600&family=Dongle&family=Fraunces:wght@700;900&family=Montserrat:wght@700&family=Orbitron:wght@600&family=Ubuntu:wght@300&family=VT323&display=swap');
+
+body{
+    background-color: #06113C;
+}
+.clock {
+    text-align: center;
+    padding: 20%;
+    font-size: 40px;
+    color: #DDDDDD;
+    font-family: 'Orbitron',
+    sans-serif;
+}
+
+.clock span {
+    padding: 25px;
+    box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.9);
+    border-radius: 50%;
+    background-color: #FF8C32;
+}
